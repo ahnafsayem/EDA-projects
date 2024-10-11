@@ -1,3 +1,11 @@
+## About This Repository
+
+This repository contains **Exploratory Data Analysis (EDA)** projects. The EDA includes:
+
+- Data cleaning and preprocessing steps.
+- Detailed visualizations to uncover patterns and relationships in the data.
+- Insights on key features that influence the main result.
+
 ## What is EDA?
 
 **Exploratory Data Analysis (EDA)** is a key part of the data science process that involves diving into a dataset to explore and understand it better. 
