@@ -4,7 +4,6 @@
 This project delves into the UEFA Champions League from 2016 to 2022, capturing essential details about teams, stadiums, players, and match outcomes. It offers a rich view of the competition's landscape, helping us explore patterns, standout performances, and significant moments in European football.
 
 ## Contents
-- [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Key Analyses](#key-analyses)
   - [Teams and Stadiums](#teams-and-stadiums)
   - [Player Positions](#player-positions)
@@ -14,7 +13,7 @@ This project delves into the UEFA Champions League from 2016 to 2022, capturing 
   - [Assists Analysis](#assists-analysis)
   - [Top Goal Scorers](#top-goal-scorers)
 - [Conclusion](#conclusion)
-- [Tools Used](#technologies-used)
+- [Tools Used](#tools-used)
 
 
 ## Key Analyses
