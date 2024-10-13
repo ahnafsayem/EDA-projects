@@ -14,7 +14,7 @@ This project delves into the UEFA Champions League from 2016 to 2022, capturing 
   - [Assists Analysis](#assists-analysis)
   - [Top Goal Scorers](#top-goal-scorers)
 - [Conclusion](#conclusion)
-- [Technologies Used](#technologies-used)
+- [Tools Used](#technologies-used)
 
 
 ## Key Analyses
@@ -70,7 +70,7 @@ From 2016 to 2022, the top goal scorers were:
 ## Conclusion
 This analysis provides a comprehensive overview of the UEFA Champions League, showcasing key statistics and insights from the matches played from 2016 to 2022. The findings highlight trends in goal scoring, player performance, and team strategies, contributing to a deeper understanding of this prestigious football competition.
 
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
