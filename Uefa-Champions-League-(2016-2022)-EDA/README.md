@@ -16,20 +16,6 @@ This project delves into the UEFA Champions League from 2016 to 2022, capturing 
 - [Conclusion](#conclusion)
 - [Technologies Used](#technologies-used)
 
-## Data Cleaning and Preprocessing
-The dataset consists of several sheets, each containing specific information about the tournament:
-
-- **Teams DataFrame (`df_teams`)**: Retains the columns `team_name`, `country`, and `home_stadium`. No need to drop any columns, as duplicates are not an issue.
-
-- **Stadiums DataFrame (`df_stadiums`)**: Contains `name`, `city`, `country`, and `capacity`. The `city` and `country` columns can be dropped. We can merge this sheet with `df_teams` by changing the stadium names to connect them with their respective teams.
-
-- **Players DataFrame (`df_players`)**: The `first_name` and `last_name` columns can be merged into one column called `player_name`. The `weight` and `height` columns will be dropped since we focus on performance statistics.
-
-- **Managers DataFrame (`df_managers`)**: Similar to players, the `first_name` and `last_name` columns will be merged into `manager_name`.
-
-- **Matches DataFrame (`df_matches`)**: The `date_time` column will be dropped for analysis.
-
-- **Goals DataFrame (`df_goals`)**: Merged with `df_matches` based on `match_id` for comprehensive insights.
 
 ## Key Analyses
 
