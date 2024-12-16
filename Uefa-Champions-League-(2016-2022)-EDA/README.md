@@ -3,7 +3,7 @@
 
 
 ## Overview
-This project delves into the UEFA Champions League from 2016 to 2022, capturing essential details about teams, stadiums, players, and match outcomes. It offers a rich view of the competition's landscape, helping us explore patterns, standout performances, and significant moments in European football.
+This project delves into the UEFA Champions League from 2016 to 2022, capturing essential details about teams, stadiums, players, and match outcomes. It offers a rich view of the competition's landscape, helping us explore patterns, standout performances and significant moments in European football.
 
 ## Contents
 - [Key Analyses](#key-analyses)
